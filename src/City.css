@@ -1,9 +1,6 @@
 h2 {
-  bottom: 30px;
-  font-size: px;
   position: relative;
   right: 5px;
-  text-align: center;
 }
 small {
   display: block;
@@ -11,14 +8,15 @@ small {
 }
 .City {
   position: relative;
-  top: 50px;
+  top: 30px;
 }
 .icon {
   position: relative;
-  top: -2px;
+  top: 7px;
 }
 .temp {
-  text-align: center;
+  position: relative;
+  top: 25px;
 }
 .units .active {
   color: rgb(245, 255, 255);
@@ -31,10 +29,12 @@ small {
   color: yellowgreen;
   font-size: 15px;
   position: relative;
-  top: -10px;
+  top: 5px;
 }
 .description {
   text-align: center;
+  position: relative;
+  top: 30px;
 }
 .description::first-letter {
   text-transform: uppercase;
