@@ -1,0 +1,8 @@
+.code {
+  position: relative;
+  top: 40px;
+  color: #9bc806;
+}
+.code a:visited {
+  color: #9bc806;
+}

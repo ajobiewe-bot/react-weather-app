@@ -1,0 +1,19 @@
+.data {
+  position: relative;
+  right: 5px;
+  bottom: 110px;
+  font-size: 25px;
+}
+.row.temperature {
+  bottom: 220px;
+  font-size: 25px;
+  left: 340px;
+  position: relative;
+}
+.degree {
+  position: relative;
+  top: -8px;
+}
+Emoji {
+  font-size: 10px;
+}

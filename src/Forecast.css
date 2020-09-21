@@ -1,0 +1,27 @@
+.time {
+  bottom: 100px;
+  font-size: 14px;
+  left: -1px;
+  position: relative;
+}
+.days-icon {
+  display: block;
+  position: relative;
+  bottom: -25px;
+  right: 12px;
+  width: 65px;
+}
+.days-temp {
+  position: relative;
+  right: 8px;
+  top: 35px;
+  font-size: 14px;
+}
+
+.vl {
+  border-left: 1px dashed rgba(208, 233, 220, 0.637);
+  height: 177px;
+  position: relative;
+  right: 12px;
+  bottom: 100px;
+}

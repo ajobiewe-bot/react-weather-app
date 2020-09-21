@@ -1,0 +1,41 @@
+h2 {
+  bottom: 30px;
+  font-size: px;
+  position: relative;
+  right: 5px;
+  text-align: center;
+}
+small {
+  display: block;
+  font-weight: normal;
+}
+.City {
+  position: relative;
+  top: 50px;
+}
+.icon {
+  position: relative;
+  top: -2px;
+}
+.temp {
+  text-align: center;
+}
+.units .active {
+  color: rgb(245, 255, 255);
+  cursor: default;
+}
+.units .active:hover {
+  text-decoration: none;
+}
+.units {
+  color: yellowgreen;
+  font-size: 15px;
+  position: relative;
+  top: -10px;
+}
+.description {
+  text-align: center;
+}
+.description::first-letter {
+  text-transform: uppercase;
+}
